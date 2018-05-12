@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '35654'
     url: http://www.gutenberg.org/2009/agents/35654
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32074#Book-Repair-and-Restoration--A-Manual-of-Practical-Suggestions-for-Bibliophiles
 gutenberg_issued: '2010-04-21'
 gutenberg_type: Text
 identifiers:
