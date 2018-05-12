@@ -1,0 +1,29 @@
+_repo: Book-Repair-and-Restoration--A-Manual-of-Practical-Suggestions-for-Bibliophiles_32074
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Buck, Mitchell S. (Mitchell Starrett)
+    aliases:
+    - Buch, M. S. (Mitchell Starrett)
+    - Buck, Mitchell Starrett
+    birthdate: 1887
+    gutenberg_agent_id: '35654'
+    url: http://www.gutenberg.org/2009/agents/35654
+description: ''
+gutenberg_issued: '2010-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32074'
+  lccn: '18017835'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Books -- Conservation and restoration'
+title: 'Book Repair and Restoration: A Manual of Practical Suggestions for Bibliophiles'
+url: http://www.gutenberg.org/ebooks/32074
